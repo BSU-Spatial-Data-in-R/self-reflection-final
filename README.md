@@ -12,7 +12,7 @@ This is the last self-reflection for the semester. It is intended to be an oppor
 
 4. Save the changes and make your first commit!
 
-5. Render the document to html (you should now have at least 3 files in the repository: Readme.md, self-reflection-1-xx.qmd, and self-reflection-1-xx.html). Commit these changes and push them to the repository on GitHub. You should see the files there when you go to github.com.
+5. Render the document to html (you should now have at least 3 files in the repository: Readme.md, self-reflection-final-xx.qmd, and self-reflection-final-xx.html). Commit these changes and push them to the repository on GitHub. You should see the files there when you go to github.com.
 
 ## Questions
 
